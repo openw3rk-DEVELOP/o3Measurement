@@ -8781,7 +8781,6 @@ class MainWindow(QtWidgets.QMainWindow):
         """
         self.setStyleSheet(style)
 
-
 def show_splash(app):
     w, h = 640, 300
     pix = QtGui.QPixmap(w, h)
